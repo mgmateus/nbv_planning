@@ -1,0 +1,3 @@
+[submodule "ViewPlanningToolbox"]
+	path = ViewPlanningToolbox
+	url = git@github.com:mgmateus/ViewPlanningToolbox.git
